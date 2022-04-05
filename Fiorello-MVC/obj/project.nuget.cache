@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "19cROl7j4ygV/QD3/hlY+3pDBOHGD7wXM6/3vdnsH4v5BaNc/QjJTiz6ZRIiroiy51W3t/0dTQZV5cTcloTADA==",
+  "dgSpecHash": "riQ0XRBCl9GlBLiIHzuG14admQtdNWjXCKp8K5dL4ttVPCvzwO80sUG1PVLo5QXFqMd116hoavX9FmD/kK+u2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\ASPI.NET CORE Examples\\Fiorello-OneToMany,AJAX\\Fiorello-MVC\\Fiorello-MVC.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\ASPI.NET CORE Examples\\Fiorello-Register\\Fiorello-MVC\\Fiorello-MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.23\\microsoft.aspnetcore.cryptography.internal.3.1.23.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.23\\microsoft.aspnetcore.cryptography.keyderivation.3.1.23.nupkg.sha512",
